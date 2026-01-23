@@ -10,7 +10,7 @@ I'm a data scientist passionate about transforming healthcare through data-drive
 
 ## 🌱 Background
 **Education**: MSc in Biotechnology & Digital Health (U of T) | BSc in Biology & Pharmacology  
-**Journey**: From wet lab research → data science thesis → few degrees → building production applications in pharma
+**Journey**: Wet lab research @ Canadian Space Agency, Pai Lab, and more → data science thesis → getting some degrees → now building cool stuff to improve health outcomes! 
 
 ## 💡 Beyond Code
 When I'm not building data pipelines, you'll find me:
