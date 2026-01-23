@@ -24,4 +24,4 @@ When I'm not building data pipelines, you'll find me:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:papihaj@outlook.com)
 
 ---
-⚡ Fun fact: Am a serial promiscuous user of todo apps—always convinced the next one will finally solve all my problems (I am still collecting them like Pokémon and would love your recommendations to try out)
+⚡ Fun fact: Am a serial promiscuous user of todo apps—always convinced the next one will finally solve all my problems (I collect 'em like Pokémon and would love your recommendations to try out)
