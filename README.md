@@ -8,8 +8,13 @@ I'm a data scientist passionate about transforming healthcare through data-drive
 - **Clinical AI**: Building models for clinical trial enrollment forecasting
 
 ## 🌱 Background
-**Education**: MSc in Biotechnology & Digital Health (UofT) | BHSc in Health Sciences (McMaster)
-**Journey**: Research @ Canadian Space Agency, McMaster Children's Hospital, Healthcare Systems R&A Inc. and more → collected some degrees → now building cool stuff to improve health outcomes @Sanofi
+**Education**: 
+- MSc in Biotechnology & Digital Health (UofT)
+- BHSc in Health Sciences (McMaster)
+**Journey**:
+- Research @ Canadian Space Agency, McMaster Children's Hospital, Healthcare Systems R&A Inc. and more
+- collected some degrees
+- now building cool stuff to improve health outcomes @Sanofi
 
 ## 💡 Beyond Code
 When I'm not building, you'll find me:
@@ -23,4 +28,4 @@ When I'm not building, you'll find me:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:papihaj@outlook.com)
 
 ---
-⚡ Fun fact: Am a serial promiscuous user of todo apps—always convinced the next one will finally solve all my problems (I collect 'em like Pokémon and would love your recommendations to try out)
+Fun fact: Am a serial promiscuous user of todo apps - am always convinced the next one will finally solve all my problems. 
