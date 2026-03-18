@@ -11,6 +11,7 @@ I'm a data scientist passionate about transforming healthcare through data-drive
 **Education**: 
 - MSc in Biotechnology & Digital Health (UofT)
 - BHSc in Health Sciences (McMaster)
+
 **Journey**:
 - Research @ Canadian Space Agency, McMaster Children's Hospital, Healthcare Systems R&A Inc. and more
 - collected some degrees
