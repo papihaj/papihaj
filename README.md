@@ -1,32 +1,13 @@
-# Hi there, I'm Papiha 👋
+# Hi, I'm Papiha 👋
 
-### Data Scientist @ Sanofi AI Centre of Excellence
-I'm a data scientist passionate about transforming healthcare through data-driven insights. With a background in Health Sciences and a Master's in Digital Health, I spend my days uncovering narratives hidden in healthcare data 🧬 that can improve patient outcomes.
+I'm a Data Scientist at Sanofi's AI Centre of Excellence, building multi-agent systems that help bring life-saving treatments to patients faster.
 
-## 🔬 What I'm Working On
-- **GenAI Applications**: Orchestrating multi-agent workflows
-- **Clinical AI**: Building models for clinical trial enrollment forecasting
+Outside of work, I'm a lifelong learner. I keep daily notes on [my website](https://joharapurkar.com) about whatever I'm studying or re-learning, have been known to write about tech and AI on [Substack](https://substack.com/@papihaj), and also yap/show my projects on [TikTok/Instagram](https://www.tiktok.com/@yapswithpaps).
 
-## 🌱 Background
-**Education**: 
-- MSc in Biotechnology & Digital Health (UofT)
-- BHSc in Health Sciences (McMaster)
+I also like building tools that solve my own problems. Here are a few you might like:
 
-**Journey**:
-- Research @ Canadian Space Agency, McMaster Children's Hospital, Healthcare Systems R&A Inc. and more
-- collected some degrees
-- now building cool stuff to improve health outcomes @Sanofi
-
-## 💡 Beyond Code
-When I'm not building, you'll find me:
-- ✍️ Writing on [Substack](https://substack.com/@papihaj)
-- 🎤 Yapping away about tech + AI on [TikTok](https://www.tiktok.com/@yapswithpaps)
-- 📸 Photography, painting or diving into any sci-fi I can find
-- 🤝 Attending niche meetups in Toronto
-
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/papihaj/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:papihaj@outlook.com)
-
----
-Fun fact: Am a serial promiscuous user of todo apps - am always convinced the next one will finally solve all my problems. 
+- **[Study Buddy](https://github.com/papihaj/study-buddy-plugin)**: a Claude Code plugin that quizzes you on key terms from your session while Claude builds
+- **[F99 Mood](https://github.com/papihaj/aula-f99-mood)**: a macOS app for the EPOMAKER x Aula F99 keyboard, since the official app only runs on Windows
+- **[Veritics](https://github.com/papihaj/veritics)**: an AI due diligence platform for pharma M&A
+- **[AI Pharma Pulse](https://aipharmapulse.org/)**: an AI-generated daily newsletter for pharma and biotech news
+- **[HerCapital](https://github.com/papihaj/hercapital-lovable-hackathon)**: a voice-first AI financial coach for women, built at a hackathon
