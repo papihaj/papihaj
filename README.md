@@ -2,7 +2,7 @@
 
 I'm a Data Scientist at Sanofi's AI Centre of Excellence, building multi-agent systems that help bring life-saving treatments to patients faster.
 
-Outside of work, I'm a lifelong learner. I keep daily notes on [my website](https://joharapurkar.com) about whatever I'm studying or re-learning, have been known to write about tech and AI on [Substack](https://substack.com/@papihaj), and also yap/show my projects on [TikTok/Instagram](https://www.tiktok.com/@yapswithpaps).
+Outside of work, I'm a lifelong learner. I keep daily notes on [my website](https://joharapurkar.com/daily) about whatever I'm studying or re-learning, have been known to write about tech and AI on [Substack](https://substack.com/@papihaj), and also yap/show my projects on [TikTok](https://www.tiktok.com/@yapswithpaps)/[Instagram](https://www.instagram.com/yapswithpaps/).
 
 I also like building tools that solve my own problems. Here are a few you might like:
 
